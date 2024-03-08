@@ -1,0 +1,6 @@
+	Pencil : 10 : 50
+	Choclate : 1 : 480
+	Biscuit : 20 : 50
+	Pen : 5 : 55
+	Pen : 5 : 55
+	Bottle : 80 : 58
